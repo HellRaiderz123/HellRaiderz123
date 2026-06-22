@@ -12,7 +12,7 @@ Building scalable software, AI systems, automation workflows and self-hosted inf
 
 ## 🚀 About Me
 
-- 💼 Associate Architect with 7+ years of experience
+- 💼 Associate Architect with 8+ years of experience
 - ☕ Java Full Stack Engineer
 - ☁️ Experienced in Azure, Docker and Microservices
 - 🤖 Passionate about AI, Machine Learning and Agentic Systems
@@ -168,9 +168,9 @@ Worked on:
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=HellRaiderz123&show_icons=true&theme=tokyonight"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HellRaiderz123&layout=compact&theme=tokyonight"/>
 
 </p>
 
